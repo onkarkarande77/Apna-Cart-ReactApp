@@ -69,10 +69,6 @@ Open:
 http://localhost:3000
 ```
 
-## 📸 Screenshots
-
-Add screenshots of your application here.
-
 ## 📚 Concepts Covered
 
 - Functional Components
