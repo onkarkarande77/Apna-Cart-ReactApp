@@ -8,7 +8,7 @@ class AddItem extends Component {
       productPrice: 0,
     }; 
   }     
-  render() {
+  render() { 
     return (
       <form
         className="row mb-5"
