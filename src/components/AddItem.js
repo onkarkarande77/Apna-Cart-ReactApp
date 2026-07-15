@@ -7,7 +7,7 @@ class AddItem extends Component {
       productName: "",
       productPrice: 0,
     }; 
-  }     
+  }      
   render() { 
     return (
       <form
