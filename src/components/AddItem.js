@@ -6,7 +6,7 @@ class AddItem extends Component {
     this.state = {
       productName: "",
       productPrice: 0,
-    };
+    }; 
   }     
   render() {
     return (
