@@ -5,7 +5,7 @@ class AddItem extends Component {
     super(props);
     this.state = {
       productName: "",
-      productPrice: 0,
+      productPrice: 0, 
     }; 
   }      
   render() { 
